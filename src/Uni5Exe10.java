@@ -1,4 +1,4 @@
-public class UniExe10 {
+public class Uni5Exe10 {
     public static void main(String[] args) {
 
         int total = 0;
