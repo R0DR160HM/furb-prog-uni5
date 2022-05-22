@@ -30,6 +30,8 @@ public class Uni5Exe18 {
             canal = scan.nextInt();
         }
 
+        scan.close();
+
         double total = canal4 + canal5 + canal9 + canal12;
         canal4 = (canal4 / total) * 100;
         canal5 = (canal5 / total) * 100;

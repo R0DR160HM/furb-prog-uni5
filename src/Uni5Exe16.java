@@ -32,6 +32,8 @@ public class Uni5Exe16 {
             altura = scan.nextDouble();
         }
 
+        scan.close();
+
         DecimalFormat df = new DecimalFormat("0.00");
 
         if (numeroHomens > 0) {
